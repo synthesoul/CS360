@@ -103,7 +103,7 @@ This project highlights my abilities in mobile app architecture, UI design, life
 ---
 
 ## Link to Repository
->[ [https://github.com/synthesoul/CS360]]
+https://github.com/synthesoul/CS360
 ---
 
 ## 📸 Screenshots
